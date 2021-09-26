@@ -15,6 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 # title: Your awesome title
 
+# Show posts with date set in the future
+future: true
+
 # Build settings
 markdown: kramdown
 plugins:
