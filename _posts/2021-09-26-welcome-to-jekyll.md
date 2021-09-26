@@ -6,3 +6,5 @@ categories: tutorial
 ---
 
 My new blog
+
+[Editing posts](https://jekyllrb.com/docs/posts/)
