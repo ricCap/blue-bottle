@@ -17,7 +17,7 @@
 
 # Show posts with date set in the future
 future: true
-baseurl: "/blue-bottle"
+permalink: date
 
 # Build settings
 markdown: kramdown
