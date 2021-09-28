@@ -1,6 +1,6 @@
 ---
-title:  "example!"
-date:   2021-09-26 23:13:18 +0200
+title:  "This is another example"
+date:   2021-09-28 23:13:18 +0200
 excerpt_separator: <!--excerpt-->
 ---
 This is the excerpt of this blog that will be posted on the homepage
