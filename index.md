@@ -6,6 +6,8 @@ layout: default
 ---
 # Welcome to Blue Bottle
 
+## Posts
+
 <ul>
   {% for post in site.posts %}
     <li>
