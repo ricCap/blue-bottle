@@ -17,3 +17,7 @@ This is the excerpt of this blog that will be posted on the homepage
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=gKJHErteBn8" target="_blank"><img src="http://img.youtube.com/vi/gKJHErteBn8/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+ <iframe width="420" height="315"
+src="https://www.youtube.com/embed/gKJHErteBn8">
+</iframe> 
