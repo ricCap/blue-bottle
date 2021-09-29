@@ -5,7 +5,7 @@
 layout: default
 ---
 # Welcome to Blue Bottle
-
+---
 ## Posts
 
 <ul>
