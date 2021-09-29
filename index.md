@@ -11,7 +11,7 @@ layout: default
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.date }}{{ post.title }}</a>
       {{ post.excerpt }}
     </li>
   {% endfor %}
