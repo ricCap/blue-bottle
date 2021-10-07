@@ -17,7 +17,7 @@ layout: default
   {% endfor %}
 </ul>
 
-Posts by category
+## Posts by category
 
 {% for category in site.categories %}
   <h3>{{ category[0] }}</h3>
