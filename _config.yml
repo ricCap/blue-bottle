@@ -19,7 +19,6 @@
 future: true
 permalink: date
 baseurl: /blue-bottle
-title: <a href="{% link index.md %}">Home</a>
 
 # Build settings
 markdown: kramdown
