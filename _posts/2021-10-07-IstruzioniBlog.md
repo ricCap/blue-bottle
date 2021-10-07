@@ -7,8 +7,10 @@ categories: []
 
 <!--excerpt-->
 
-Link con i comandi per scrivere
+Link con i comandi per scrivere:
 [Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+
+
 
 
 
