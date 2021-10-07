@@ -10,4 +10,12 @@ categories: []
 Link con i comandi per scrivere
 [Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 
+1. Entro su Post
 
+2. clicco . e mi si apre l'editor
+
+3. copio un post e lo modifico come voglio
+
+    NB deve stare all'interno della stessa cartella
+
+4. uso la spunta in alto a sinistra
