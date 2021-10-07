@@ -11,7 +11,7 @@ layout: default
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%-d %B %Y" }} {{ post.title }}</a>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</a>
       {{ post.excerpt }}
     </li>
   {% endfor %}
@@ -23,7 +23,7 @@ layout: default
   <h3>{{ category[0] }}</h3>
   <ul>
     {% for post in category[1] %}
-      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%-d %B %Y" }} {{ post.title }}</a></li>
+      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</a></li>
     {% endfor %}
   </ul>
 {% endfor %}
