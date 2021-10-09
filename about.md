@@ -17,4 +17,4 @@ Feel like learning more about it? Reach out on [Telegram](https://t.me/RicCap) o
 + A PLACE where everyone is welcome, without judging.
 + A GROUP of interesting people wanting to learn more and help each other.
 + With good structure, and no limits!
-+ Where you feel better afterwards!Vì
++ Where you feel better afterwards!
