@@ -1,8 +1,6 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
+title: Blue Bottle
 ---
 ## What's new (14.10.2021)
 + You can now write drafts in the _drafts folder
