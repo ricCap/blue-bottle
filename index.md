@@ -6,7 +6,7 @@ layout: default
 ---
 ## What's new (14.10.2021)
 + You can now write drafts in the _drafts folder
-+ Added a new comments session in the post template
++ Added a _comments_ section in the post template
 + Show post author in this page
 
 ## Posts
