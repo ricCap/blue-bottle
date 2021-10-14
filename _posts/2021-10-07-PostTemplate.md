@@ -2,7 +2,8 @@
 title:  "Post Template"
 date:   2021-09-29 23:13:18 +0200
 excerpt_separator: <!--excerpt-->
-categories: [template]
+author: 'Riccardo'
+categories: [TEMPLATE]
 ---
 Here you can write a small summary of your post that will be added to the home page
 <!--excerpt-->
@@ -29,5 +30,14 @@ src="https://www.youtube.com/embed/gKJHErteBn8">
 
 About jekyll posts https://jekyllrb.com/docs/posts/
 
+<!--Please add your comments below
 
-#Hello world
+Use the following template:
+# Copy from the next line
+### username
+---
+# until here
+
+-->
+# Comments
+---
