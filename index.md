@@ -11,7 +11,7 @@ title: Blue Bottle
   + Add podcast page
 
 ## Pages
-+ [Podcasts]({{ site.url }}/podcasts.html)
++ [Podcasts]({{ site.baseurl }}/podcasts.html)
 
 
 ## Posts
