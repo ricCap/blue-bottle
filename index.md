@@ -2,10 +2,17 @@
 layout: default
 title: Blue Bottle
 ---
-## What's new (14.10.2021)
+## What's new
+(14.10.2021)
 + You can now write drafts in the _drafts folder
 + Added a _comments_ section in the post template
 + Show post author in this page
+(15.10.2021)
++ Add podcast page
+
+## Pages
++ Podcasts: {{ site.baseurl }}/podcasts.html
+
 
 ## Posts
 
