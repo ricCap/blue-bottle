@@ -12,7 +12,7 @@ title: Blue Bottle
 
 ## Pages
 {% for page in site.pages %}
-[{{ page.title }}]({{ site.baseurl }}{{ page.url }}) |
+[{{ page.title }}]({{ site.baseurl }}{{ page.url }}), 
 {% endfor %}
 
 ## Posts
