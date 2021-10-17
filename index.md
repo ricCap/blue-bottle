@@ -3,7 +3,7 @@ layout: default
 title: Blue Bottle
 ---
 ## Pages
-{% for page in site.pages %}{% if page.title %}[{{ page.title }}]({{ site.baseurl }}{{ page.url }}), {% endif %}{% endfor %}
+{% for page in site.pages %}{% if page.title %}[{{ page.title }}]({{ site.baseurl }}{{ page.url }}){% if forloop.last == false %}, {% endif %}{% endif %}{% endfor %}
 
 ## Posts
 
