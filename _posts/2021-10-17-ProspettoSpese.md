@@ -16,7 +16,7 @@ Se regolarmente inserisci su un file excel le tue spese, questo ti permetterà d
 
 La cosa ideale sarebbe segnare le spese giornalmente per non rischiare di dimenticarne qualcuna.
 
-Questo è un primo strumento molto semplice e concreto, ma estremamente efficace che permette di mettere via soldi senza troppa fastica.
+Questo è un primo strumento molto semplice e concreto, ma estremamente efficace che permette di mettere via soldi senza troppa fatica.
 
 
 
