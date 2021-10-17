@@ -11,9 +11,7 @@ title: Blue Bottle
   + Add podcast page
 
 ## Pages
-{% for page in site.pages %}
-[{{ page.title }}]({{ site.baseurl }}{{ page.url }}), 
-{% endfor %}
+{% for page in site.pages %}{% if page.title %}[{{ page.title }}]({{ site.baseurl }}{{ page.url }}), {% endif %}{% endfor %}
 
 ## Posts
 
