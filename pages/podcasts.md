@@ -3,8 +3,5 @@ layout: default
 title: Podcasts
 permalink: /podcasts/
 ---
-## [Huberman Lab](https://open.spotify.com/show/79CkJF3UJTHFV8Dse3Oy0P?si=8UhahSiVQbG2C9kAXF24EQ&utm_source=native-share-menu)
->  Description here
-
-## Other podcast
-> Other
++ [Huberman Lab](https://open.spotify.com/show/79CkJF3UJTHFV8Dse3Oy0P?si=8UhahSiVQbG2C9kAXF24EQ&utm_source=native-share-menu)
++ [RIP Cast](https://open.spotify.com/show/2SQ8RVBofmJBklBzD357iL?si=eFDPenJ6QMiC2c-hyrJMYA) Podcast di 
