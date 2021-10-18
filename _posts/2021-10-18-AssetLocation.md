@@ -14,10 +14,7 @@ Qui puoi trovare delle utili informazioni sull'asset location
 L'asset location è dove mettiamo i nostri soldi
 
 
-Un video molto utile sul tema
+Un video un pò lunghetto ma molto utile sul tema:
 
 [Asset location by Mister RIP](https://www.youtube.com/watch?v=jO6YhYzI2Fs)
 
-
-
-A
