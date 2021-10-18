@@ -32,8 +32,6 @@ Insomma, quello che ho impartato da questo libro è che bisogna scendere dal pie
 
 Lorenzo
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/511ggezsKbS.jpg", alt="Cigno Nero", width=200/>
-
 ![Cigno Nero](https://images-na.ssl-images-amazon.com/images/I/511ggezsKbS.jpg =200x)
 
 
