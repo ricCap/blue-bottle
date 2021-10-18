@@ -11,11 +11,13 @@ Qui puoi trovare delle utili informazioni sull'asset location
 
 # Asset Location: cos'è?
 
+L'asset location è dove mettiamo i nostri soldi
 
 
 Un video molto utile sul tema
- <iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=jO6YhYzI2Fs">
-</iframe> 
+
+[Asset location by Mister RIP](https://www.youtube.com/watch?v=jO6YhYzI2Fs)
+
+
 
 A
