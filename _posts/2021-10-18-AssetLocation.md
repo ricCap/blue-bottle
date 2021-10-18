@@ -2,7 +2,7 @@
 title:  "Asset Location"
 date:   2021-10-18 23:13:18 +0200
 excerpt_separator: <!--excerpt-->
-author: 'Matteo e Lorenzo'
+author: 'Matteo'
 categories: [PERSONAL-FINANCE]
 ---
 Qui puoi trovare delle utili informazioni sull'asset location
