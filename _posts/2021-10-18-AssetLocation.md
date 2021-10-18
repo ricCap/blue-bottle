@@ -31,3 +31,9 @@ Ecco non esiste un asset migliore dell'altro, semplicemente hanno punti di forza
 
 ### Liquidità
 
+E' la scelta di default, se noi non facciamo niente i nostri guadagni andranno immediatamente in questo scomparto. La liquidità ha una caratteristica molto importante, ovvero è immediata: non ho bisogno di aspettare nulla per poter usufruire del suo valore. Questo è quindi molto importante per poter pagare le spesi correnti e comuni. Altra caratteristica fondamentale è che non è volatile, quindi dieci euro oggi varranno dieci anche domani. Quindi può essere usato come riserva di valore.
+Però abbiamo anche l'altro lato della medaglia: Non crea valore nel tempo e anzi va a perderne.
+Se noi facciamo un invesimento, a parte strane condizioni, noi per aver investito i nostri soldi otterremo un rendimento (anche se molto basso), quindi nel tempo ci futterà qualcosa. Con la liquidità ciò non accade. Cosa ancor peggiore è che nel tempo perdre valore a causa dell'inflazione,
+
+Quindi cosa fare? Semplice, una parte sicuramente bisogna averne: ci permette di fare spese e di avere nel breve periodo una riserva che ha un valore costante. Però bisogna evitare di tenere troppo in questa asset location, per non perdere la possibilità di far lavorare i nostri soldi per noi.
+
