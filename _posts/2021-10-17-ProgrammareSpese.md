@@ -1,5 +1,5 @@
 ---
-title:  "Programmare le proprie spese "
+title:  "Programmare le proprie spese (da finire)"
 date:   2021-10-17 23:13:18 +0200
 excerpt_separator: <!--excerpt-->
 author: 'Matteo'
