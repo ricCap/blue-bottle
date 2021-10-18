@@ -11,7 +11,13 @@ Qui puoi trovare delle utili informazioni sull'asset location
 
 # Asset Location: cos'è?
 
-L'asset location è dove mettiamo i nostri soldi
+</b>L'asset location è dove mettiamo i nostri soldi.
+
+Se pensi di non essere toccato da questo tema due sono le possibilità:
+
+o non hai neanche un euro o sei un pirla.
+
+Infatti  
 
 
 Un video un pò lunghetto ma molto utile sul tema:
