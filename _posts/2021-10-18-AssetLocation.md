@@ -29,5 +29,5 @@ Ecco non esiste un asset migliore dell'altro, semplicemente hanno punti di forza
 
 ## Conoscere i vari tipi di asset location
 
-# Liquidità
+### Liquidità
 
