@@ -1,5 +1,5 @@
 ---
-title:  "Asset Location"
+title:  "Asset Location(da finire)"
 date:   2021-10-18 23:13:18 +0200
 excerpt_separator: <!--excerpt-->
 author: 'Matteo'
