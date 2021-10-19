@@ -18,14 +18,9 @@ title: Blue Bottle
 
 ## Posts by category
 
-<ul>
 {% for category in site.categories %}
-<li><h3>{{ category[0] }}</h3>
-  <ul>
-    {% for post in category[1] %}
-      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}{% if post.author %}<b> by {{ post.author }}</b>{% endif %}</a></li>
-    {% endfor %}
-  </ul>
-</li>
+### {{ category[0] }}
+  {% for post in category[1] %}
+  + <a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}{% if post.author %}<b> by {{ post.author }}</b>{% endif %}</a>
+  {% endfor %}
 {% endfor %}
-</ul>
