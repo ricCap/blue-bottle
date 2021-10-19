@@ -16,11 +16,14 @@ title: Blue Bottle
   {% endfor %}
 </ul>
 
-## Posts by category
-
-{% for category in site.categories %}
-### {{ category[0] }}
-  {% for post in category[1] %}
-  + <a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}{% if post.author %}<b> by {{ post.author }}</b>{% endif %}</a>
+# A collapsible section with markdown
+<details>
+  <summary>Posts by category</summary>
+  
+  {% for category in site.categories %}
+  ### {{ category[0] }}
+    {% for post in category[1] %}
+    + <a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}{% if post.author %}<b> by {{ post.author }}</b>{% endif %}</a>
+    {% endfor %}
   {% endfor %}
-{% endfor %}
+</details>
