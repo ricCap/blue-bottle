@@ -32,6 +32,9 @@ immaginiamo che abbiamo deciso di risparmiare 10'000 euro all'anno, e il nostro 
 Attorno a questa semplice affermazione si possono fare molti ragionamenti. Un esempio può essere che se abbiamo delle spese fisse che costituiscono il 40% del nostro reddito, per mantenere il nostro obiettivo di risparmio potremo spendere solamente il 10% del nostro stipendio, perchè il 50% è per il risparmio, e il restante 40% sono per delle spese che non possiamo variare o eliminare.
 Questo concetto può apparire una banalità, ma è il punto di partenza. Capire che le nostre entrate sono definite e anche limitate, ci insegna a maneggiare meglio ciò che abbiamo e a capire che un aumento da una parte si tradurrà in un taglio dall'altra. 
 
+
+### ricapitolando
+
 Quindi, capendo quali sono le nostre entrate e uscite (i nostri vincoli) e mettendo a tavolino quali sono le azioni (strategia) che mi permetteranno di arrivare al mio obiettivo, avrò una linea guida di cosa devo fare concratamente, giorno per giorno, per ottenere ciò che mi sono prefissato.
 
 Ci sono molti trucchetti, sia economici, sia psicologici che ci possono aiutare a rispettare il nostro piano.
