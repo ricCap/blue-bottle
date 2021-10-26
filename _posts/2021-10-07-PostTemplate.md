@@ -13,6 +13,7 @@ Here you can write a small summary of your post that will be added to the home p
 ### SubSubtitle
 
 ![An image](https://en.wikipedia.org/wiki/Red_Hawk_cheese#/media/File:Cowgirl_Creamery_Point_Reyes_-_Red_Hawk_cheese.jpg)
+![A local image](./images/snoopy.jpg)
 
 
 [Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)
