@@ -8,4 +8,4 @@ categories: [CHALLENGE]
 Descrivere "la Vita" in un saggio di 1000 parole
 <!--excerpt-->
 
-![A local image](/assets/images/snoopy.jpg)
+![La vita è un saggio di mille parole](/assets/images/snoopy.jpg)
