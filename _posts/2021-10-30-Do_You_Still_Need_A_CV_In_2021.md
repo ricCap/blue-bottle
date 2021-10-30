@@ -18,6 +18,7 @@ Over the years I have been updating my CV multiple times, currently to 2 major v
 ## My solution: resume-as-a-story
 Why not writing a short resume as a compelling story of your life. A story that brings out who you are, what you have done and achieved, and how you got here.
 
+Some suggestions:
 + Keep a bullet list of the everything you have done/achieved so far
 + Rewrite your resume every time by adding what your audience is interested in
 + Set yourself a limit (5m read)
