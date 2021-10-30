@@ -41,12 +41,3 @@ A cover letter is a must-have for pretty much everything you do in life. Why? Be
 
 # Conclusions
 The conclusion is: no, you don't need a CV in the 21st century anymore; your LinkedIn profile, your personal website, your private blog frontpage can well be the place where you collect all the information that a recruiter, sponsor or investor might need to understand what you've done and how you got here. But make sure you have a good story to tell!
-<!--Please add your comments below
-
-Use the following template:
-# Copy from the next line
-### username
----
-# until here
-
--->
