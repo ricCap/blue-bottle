@@ -12,13 +12,13 @@ Why are we still writing resumes? Are we just re-writing our LinkedIn profile in
 
 Let's start by saying what the difference between a Curriculum Vitae (CV) and a resume is: a CV contains your whole academic and work history (LinkedIn is your CV), while a resume is a shorter summary containing everything your audience needs to make a decision about you: skills, tools, knowledge, education. Your audience is your next potential employer or the person deciding whether you'll be part of that very interesting opportunity you are applying for.
 
-Over the years I have been updating my CV multiple times, currently to 2 major versions (rewrite it from scratch) and 12 minor versions (add/remove information). Although these numbers are small, every time I do it, it requires a few hours to a few days, and a resonable amount of effort. Lately I have come to a point where I want to update my resume at least once every two weeks, and struggle with finding the time to do it. I end up having a resume that is not updated, or that does not reflect the needs of the person who are going to read it (the audience).
+Over the years I have been updating my CV multiple times, currently to 2 major versions (rewrite it from scratch) and 12 minor versions (add/remove information). Although these numbers are small, every time I do it, it requires a few hours to a few days, and a resonable amount of effort. Lately I have come to a point where I want to update my resume at least once every two weeks, and struggle with finding the time to do it. I end up having a resume that is not updated, or that does not reflect the needs of the person who is going to read it (the audience).
 
 
 ## My solution: resume-as-a-story
 Why not writing a short resume as a compelling story of your life. A story that brings out who you are, what you have done and achieved, and how you got here.
 
-+ Keep a bullet list of the everything you have done|achieved so far
++ Keep a bullet list of the everything you have done/achieved so far
 + Rewrite your resume every time by adding what your audience is interested in
 + Set yourself a limit (5m read)
 + Make relevant things **bold**
