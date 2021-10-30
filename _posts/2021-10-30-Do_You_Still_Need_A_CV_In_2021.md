@@ -30,20 +30,17 @@ Some suggestions:
 
 ## Some other tools
 
+### Video CV
+A video CV is a great way to start. It requires quite some effort to prepare, as one might not be very accustomed to take in front of a camera. However, be sure it's going to catch people's attention. LinkedIn now allows you to upload a 30 seconds video that's going to be displayed when people click on your profile picture. It's a nice touch to say a few words about yourself and get your message across.
+
+### Curriculum studiorum
+The Curriculum studiorum contains your whole university career history, in particular exams, marks, and courses you attended. This is particularly useful when you want to show you have some knowledge on some specific subject, or if you are starting your career and want to point out your strengths. Sometimes required.
+
 ### Cover letter
 A cover letter is a must-have for pretty much everything you do in life. Why? Because it's your first chance to state why you are intested in THEM and why they should listen to you. A cover letter is almost always required.
 
-### Video CV
-A video CV is a great way to start. It requires quite some effort to prepare, as one might not be very accustomed to speak in front of a camera. However, be assured it is going to catch people's attention. LinkedIn now allows you to upload a 30 seconds video that is going to be displayed when people click on your profile picture. It's a nice touch to say a few words about yourself and get your message across.
-
-### Curriculum studiorum
-The Curriculum studiorum contains your whole university career history: exams, marks, and courses you attended. This is particularly useful when you want to show you have some knowledge on some specific subject, or if you are starting your career and want to point out your strengths. Sometimes required.
-
----
-
 # Conclusions
-The conclusion is: no, you don't need a CV in the 21st century anymore; your linkedIn profile, your personal website, your private blog frontpage can well be the place where you collect all the information that a recruiter, sponsor or investor might need to understand what you've done and how you got here. But be sure to have a story to tell to your target every time you are ready.
-
+The conclusion is: no, you don't need a CV in the 21st century anymore; your LinkedIn profile, your personal website, your private blog frontpage can well be the place where you collect all the information that a recruiter, sponsor or investor might need to understand what you've done and how you got here. But make sure you have a good story to tell!
 <!--Please add your comments below
 
 Use the following template:
@@ -53,5 +50,3 @@ Use the following template:
 # until here
 
 -->
-# Comments
----
