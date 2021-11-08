@@ -14,9 +14,9 @@ Fare scelte migliori
 Per questo post mi sono ispirato al video di Mister RIP linkato qua sotto
 [Decision making by Mister RIP](https://www.youtube.com/watch?v=PvXdD9w4SFs)
 
-Riassumo brevemente quelli che secondo Mr RIP sono i passaggi chaivi per poter prendere le decisioni in maniera più efficace e consapevole.
+Riassumo brevemente quelli che secondo Mr RIP sono i passaggi chaive per poter prendere le decisioni in maniera più efficace e consapevole.
 
-Penso che il tema sia molto importante, spesso prendiamo decisioni senza riflettere abbastanza traducendosi a risultati non desiderati. 
+Penso che il tema sia molto importante, spesso prendiamo decisioni senza riflettere abbastanza traducendosi in risultati non desiderati. 
 
 Piccolo disclaimer: mi rendo conto che questi passaggi possono sembrare scontati e senza particolare valore, ma la mia intenzione è anche quella di dare una "forma" piuttosto precisa del processo, che seppur spesso fatto in maniera automatica, in realtà è piuttosto articolato.
 
@@ -52,7 +52,7 @@ Dopo del tempo, (non subito!) bisogna fare una valutazione della decisione presa
 n.b. differenza tra risultati e scelta (possono esserci buoni risultati con pessime scelte e cattivi risultati con scelte buone)
 
 
-## 7) 
+## 7) reitera
 
 
 
