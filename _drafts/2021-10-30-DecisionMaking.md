@@ -33,4 +33,26 @@ urgenza - importanza
 Attenzione che spesso ci sono parecchie opzioni, non due o tre
 evitare i blind spot (chiedere a più persone possibili)
 
+## 3) Elencare i pro e i contro 
+elencare i pro e i contro per ogni possibile opzione. 
+In particolare: 
+-evidenziare i pro di lungo termine
+-Vedere i potenziali rischi
+-cercare di basarsi su dati reali e concreti
+
+## 4) analizzare i propri valori
+Ora bisogna indicare i valori e i propri desideri. mettersi in prima persona rispetto alle decisioni.
+Se possibile cercare di fare delle prove. es voglio cambiare lavoro, prima di licenziarmi mi metto in aspettativa
+
+## 5) prendere la decisione
+
+
+## 6) Riprendere in mano la decisione
+Dopo del tempo, (non subito!) bisogna fare una valutazione della decisione presa 
+n.b. differenza tra risultati e scelta (possono esserci buoni risultati con pessime scelte e cattivi risultati con scelte buone)
+
+
+## 7) 
+
+
 
