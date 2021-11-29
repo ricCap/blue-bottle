@@ -11,7 +11,7 @@ title: Blue Bottle
       <i class="fas fa-podcast"></i>
     </div>
     <div class="flip-card-back">
-      <h1>Podcast</h1>
+      Podcast
     </div>
   </div>
 </div> 
