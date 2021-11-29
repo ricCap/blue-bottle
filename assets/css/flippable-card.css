@@ -1,6 +1,6 @@
 .scene {
-  width: 200px;
-  height: 260px;
+  width: 100px;
+  height: 130px;
   border: 1px solid #CCC;
   margin: 40px 0;
   perspective: 600px;
@@ -32,11 +32,6 @@
   backface-visibility: hidden;
 }
 
-.card__face--front {
-  background: red;
-}
-
 .card__face--back {
-  background: blue;
   transform: rotateY(180deg);
 }
