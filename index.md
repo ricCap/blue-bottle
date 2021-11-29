@@ -5,6 +5,14 @@ title: Blue Bottle
 ## Pages
 {% for page in site.pages %}{% if page.title %}[{{ page.title }}]({{ site.baseurl }}{{ page.url }}){% unless forloop.last %}, {% endunless %}{% endif %}{% endfor %}
 
+<div class="scene scene--card">
+  <div class="card">
+    <div class="card__face card__face--front">front</div>
+    <div class="card__face card__face--back">back</div>
+  </div>
+</div>
+<p>Click card to flip.</p>
+
 ## Posts
 <ul>
   {% for post in site.posts %}
@@ -46,3 +54,6 @@ title: Blue Bottle
     </ul>
   {% endfor %}
 </details>
+
+
+<script type="text/javascript" src="{{ site.baseurl }}/assets/images/js/flippable-card.js"></script>
