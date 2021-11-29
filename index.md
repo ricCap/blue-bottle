@@ -7,10 +7,21 @@ title: Blue Bottle
 
 <div class="scene scene--card">
   <div class="card">
-    <div class="card__face card__face--front"><i class="fas fa-podcast"></i></div>
+    <div class="card__face card__face--front">/div>
     <div class="card__face card__face--back">podcasts</div>
   </div>
 </div>
+
+<div class="flip-card">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+      <i class="fas fa-podcast"></i>
+    </div>
+    <div class="flip-card-back">
+      <h1>Podcast</h1>
+    </div>
+  </div>
+</div> 
 
 ## Posts
 <ul>
