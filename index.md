@@ -56,4 +56,5 @@ title: Blue Bottle
 </details>
 
 
-<script type="text/javascript" src="{{ site.baseurl }}/assets/images/js/flippable-card.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/flippable-card.js"></script>
+<i class="fas fa-podcast"></i>

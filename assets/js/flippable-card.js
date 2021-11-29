@@ -4,4 +4,4 @@ card.addEventListener( 'onmouseenter', function() {
 });
 card.addEventListener( 'onmouseleave', function() {
     card.classList.toggle('is-flipped');
-  });
+});
