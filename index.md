@@ -9,8 +9,7 @@ title: Blue Bottle
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}{% if post.author %}<b> by {{post.author}}</b>{% endif %}</a>
-      <br/>
+      {{ post.date | date: "%Y-%m-%d" }}
       {% if post.language %}
         {% if post.language == "en" %}
           <img src="{{ site.baseurl }}/assets/images/flags/gb.svg" alt="English" height="15">
@@ -18,6 +17,7 @@ title: Blue Bottle
           <img src="{{ site.baseurl }}/assets/images/flags/it.svg" alt="Italian" height="15"> 
         {% endif %}
       {% endif %}
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}{% if post.author %}<b> by {{post.author}}</b>{% endif %}</a>
       {{ post.excerpt }}
     </li>
   {% endfor %}
