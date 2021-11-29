@@ -17,6 +17,7 @@ title: Blue Bottle
           <img src="{{ site.baseurl }}/assets/images/flags/it.svg" alt="Italian" height="20"> 
         {% endif %}
       {% endif %}
+      <br/>
       {{ post.date | date: "%Y-%m-%d" }}
       {{ post.excerpt }}
     </li>
