@@ -28,12 +28,12 @@
   height: 100%;
   -webkit-backface-visibility: hidden; /* Safari */
   backface-visibility: hidden;
+  vertical-align: middle;
 }
 
 /* Style the front side (fallback if image is missing) */
 .flip-card-front {
-  color: black;
-  vertical-align: middle;
+  color: black;  
 }
 
 /* Style the back side */
