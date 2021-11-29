@@ -6,8 +6,8 @@ title: Blue Bottle
 {% for page in site.pages %}{% if page.title %}[{{ page.title }}]({{ site.baseurl }}{{ page.url }}){% unless forloop.last %}, {% endunless %}{% endif %}{% endfor %}
 
 <div class="flip-card">
-  <div class="flip-card-inner flip-card-1">
-    <div class="flip-card-front">
+  <div class="flip-card-inner">
+    <div class="flip-card-front flip-card-1">
       <i class="fas fa-podcast fa-3x"></i>
     </div>
     <div class="flip-card-back">
@@ -17,8 +17,8 @@ title: Blue Bottle
 </div>
 
 <div class="flip-card">
-  <div class="flip-card-inner flip-card-2">
-    <div class="flip-card-front">
+  <div class="flip-card-inner">
+    <div class="flip-card-front ">
       <i class="fas fa-music fa-3x"></i>
     </div>
     <div class="flip-card-back">
