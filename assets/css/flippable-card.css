@@ -31,14 +31,25 @@
   vertical-align: middle;
 }
 
-/* Style the front side (fallback if image is missing) */
+/* Style the front side (fallback if image is missing) 
 .flip-card-front {
   color: black;  
-}
+}*/
 
 /* Style the back side */
 .flip-card-back {
-  background-color: black;
-  color: white;
+  transform: rotateY(180deg);
+}
+
+.flip-card-1 {
+  background-color: lightcoral;
+  color: black;
+  transform: rotateY(180deg);
+}
+
+
+.flip-card-1 {
+  background-color: lightskyblue;
+  color: black;
   transform: rotateY(180deg);
 }
