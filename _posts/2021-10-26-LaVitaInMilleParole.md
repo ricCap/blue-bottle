@@ -4,6 +4,7 @@ date:   2021-10-26 20:29:18 +0200
 excerpt_separator: <!--excerpt-->
 author: 'Riccardo'
 categories: [CHALLENGE]
+language: it
 ---
 Descrivere "la Vita" in un saggio di 1000 parole
 <!--excerpt-->

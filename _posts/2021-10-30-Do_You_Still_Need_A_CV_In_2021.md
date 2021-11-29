@@ -4,6 +4,7 @@ date:   2021-10-30 12:00:00 +0200
 excerpt_separator: <!--excerpt-->
 categories: [WORK]
 author: 'Riccardo'
+language: en
 ---
 Why are we still writing resumes? Are we just re-writing our LinkedIn profile in a format that is just harder to maintain? Some thoughts about the process of maintaining an updated CV and how it might be a good idea to drop it in 2021.
 <!--excerpt-->

@@ -4,6 +4,7 @@ date:   2021-10-23 23:13:18 +0200
 excerpt_separator: <!--excerpt-->
 author: 'Matteo'
 categories: [PERSONAL-FINANCE]
+language: it
 ---
 Cos'è la finanza personale e a cosa serve
 <!--excerpt-->

@@ -4,6 +4,7 @@ date:   2021-10-18 22:25:00 +0200
 excerpt_separator: <!--excerpt-->
 author: 'Lorenzo'
 categories: [TIPS-FOR-LIFE]
+language: it
 ---
 Un piccolo insegnamento che ho imparato da "Black Swan"
 <!--excerpt-->
