@@ -14,7 +14,6 @@
   text-align: center;
   transition: transform 0.8s;
   transform-style: preserve-3d;
-  vertical-align: middle;
 }
 
 /* Do an horizontal flip when you move the mouse over the flip box container */
@@ -34,6 +33,7 @@
 /* Style the front side (fallback if image is missing) */
 .flip-card-front {
   color: black;
+  vertical-align: middle;
 }
 
 /* Style the back side */
