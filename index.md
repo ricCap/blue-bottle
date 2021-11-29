@@ -5,13 +5,6 @@ title: Blue Bottle
 ## Pages
 {% for page in site.pages %}{% if page.title %}[{{ page.title }}]({{ site.baseurl }}{{ page.url }}){% unless forloop.last %}, {% endunless %}{% endif %}{% endfor %}
 
-<div class="scene scene--card">
-  <div class="card">
-    <div class="card__face card__face--front">/div>
-    <div class="card__face card__face--back">podcasts</div>
-  </div>
-</div>
-
 <div class="flip-card">
   <div class="flip-card-inner">
     <div class="flip-card-front">
