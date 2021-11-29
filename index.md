@@ -9,13 +9,13 @@ title: Blue Bottle
 <ul>
   {% for post in site.posts %}
     <li>
-      {{ if post.language }}
-        {{ if post.language == "en" }}
+      {% if post.language %}
+        {% if post.language == "en" %}
           <img src="{{ site.baseurl }}/assets/images/flags/gb.svg" alt="English" width="40" height="40">
-        {{ else }}
+        {% else %}
           <img src="{{ site.baseurl }}/assets/images/flags/it.svg" alt="Italian" width="40" height="40"> 
-        {{ endif}}
-      {{endif}}
+        {% endif %}
+      {% endif %}
       <a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}{% if post.author %}<b> by {{post.author}}</b>{% endif %}</a>
       {{ post.excerpt }}
     </li>
