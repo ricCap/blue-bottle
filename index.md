@@ -11,9 +11,9 @@ title: Blue Bottle
     <li>
       {% if post.language %}
         {% if post.language == "en" %}
-          <img src="{{ site.baseurl }}/assets/images/flags/gb.svg" alt="English" width="40" height="40">
+          <img src="{{ site.baseurl }}/assets/images/flags/gb.svg" alt="English" height="20">
         {% else %}
-          <img src="{{ site.baseurl }}/assets/images/flags/it.svg" alt="Italian" width="40" height="40"> 
+          <img src="{{ site.baseurl }}/assets/images/flags/it.svg" alt="Italian" height="20"> 
         {% endif %}
       {% endif %}
       <a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}{% if post.author %}<b> by {{post.author}}</b>{% endif %}</a>
