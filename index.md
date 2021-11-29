@@ -7,8 +7,7 @@ title: Blue Bottle
 
 <div class="flip-card">
   <div class="flip-card-inner">
-    <div class="flip-card-front">
-      <i class="fas fa-podcast"></i>
+    <div class="flip-card-front fas fa-podcast">
     </div>
     <div class="flip-card-back">
       Podcast
@@ -57,5 +56,3 @@ title: Blue Bottle
     </ul>
   {% endfor %}
 </details>
-
-<script type="text/javascript" src="{{ site.baseurl }}/assets/js/flippable-card.js"></script>
