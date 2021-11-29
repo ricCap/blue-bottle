@@ -7,11 +7,10 @@ title: Blue Bottle
 
 <div class="scene scene--card">
   <div class="card">
-    <div class="card__face card__face--front">front</div>
-    <div class="card__face card__face--back">back</div>
+    <div class="card__face card__face--front"><i class="fas fa-podcast"></i></div>
+    <div class="card__face card__face--back">podcasts</div>
   </div>
 </div>
-<p>Click card to flip.</p>
 
 ## Posts
 <ul>
@@ -54,7 +53,3 @@ title: Blue Bottle
     </ul>
   {% endfor %}
 </details>
-
-
-<script type="text/javascript" src="{{ site.baseurl }}/assets/js/flippable-card.js"></script>
-<i class="fas fa-podcast"></i>
