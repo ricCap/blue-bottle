@@ -53,3 +53,5 @@ title: Blue Bottle
     </ul>
   {% endfor %}
 </details>
+
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/flippable-card.js"></script>
