@@ -15,6 +15,7 @@ title: Blue Bottle
     </div>
   </div>
 </div>
+
 <div class="flip-card">
   <div class="flip-card-inner flip-card-2">
     <div class="flip-card-front">
@@ -24,7 +25,7 @@ title: Blue Bottle
       Music
     </div>
   </div>
-</div>  
+</div>
 
 ## Posts
 <ul>
