@@ -8,13 +8,12 @@ fa-icon: fa-home
   {% for page in site.pages %}
   {% if page.title %}
   <div class="flip-card">
-    <div class="flip-card-inner">
+    <a class="flip-card-inner" href="{{ site.baseurl }}{{ page.url }}">
         <div class="flip-card-front">
           <i class="fas fa-3x {{ page.fa-icon }}"></i>
         </div>
         <div class="flip-card-back">{{ page.title }}</div>
-        <a href="{{ site.baseurl }}{{ page.url }}"></a>
-    </div>
+    </a>
   </div>
   {% endif %}{% endfor %}
 </div>
