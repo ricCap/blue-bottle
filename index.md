@@ -5,25 +5,25 @@ title: Blue Bottle
 ## Pages
 {% for page in site.pages %}{% if page.title %}[{{ page.title }}]({{ site.baseurl }}{{ page.url }}){% unless forloop.last %}, {% endunless %}{% endif %}{% endfor %}
 
-
-<div class="flip-card">
-  <div class="flip-card-inner">
-    <div class="flip-card-front">
-      <i class="fas fa-podcast fa-3x"></i>
-    </div>
-    <div class="flip-card-back">
-      Podcast
+<div class="flippable-pages">
+  <div class="flip-card">
+    <div class="flip-card-inner">
+      <div class="flip-card-front">
+        <i class="fas fa-podcast fa-3x"></i>
+      </div>
+      <div class="flip-card-back">
+      <p>Podcasts</p>
     </div>
   </div>
-</div>
 
-<div class="flip-card">
-  <div class="flip-card-inner">
-    <div class="flip-card-front">
-      <i class="fas fa-music fa-3x"></i>
-    </div>
-    <div class="flip-card-back">
-      Music
+  <div class="flip-card">
+    <div class="flip-card-inner">
+      <div class="flip-card-front">
+        <i class="fas fa-music fa-3x"></i>
+      </div>
+      <div class="flip-card-back">
+        <p>Music</p>
+      </div>
     </div>
   </div>
 </div>
