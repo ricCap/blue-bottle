@@ -1,10 +1,9 @@
 ---
 layout: default
 title: Blue Bottle
+fa-icon: fa-home
 ---
 ## Pages
-[]({{ site.baseurl }}{{ page.url }}){% unless forloop.last %}, {% endunless %}
-
 <div class="row">
   {% for page in site.pages %}
   {% if page.title %}
