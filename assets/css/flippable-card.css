@@ -47,8 +47,3 @@
 .flip-card-back {
   transform: rotateY(180deg);
 }
-
-.flip-card a {
-  color: inherit;
-  text-decoration: inherit;
-}
