@@ -3,30 +3,22 @@ layout: default
 title: Blue Bottle
 ---
 ## Pages
-{% for page in site.pages %}{% if page.title %}[{{ page.title }}]({{ site.baseurl }}{{ page.url }}){% unless forloop.last %}, {% endunless %}{% endif %}{% endfor %}
+[]({{ site.baseurl }}{{ page.url }}){% unless forloop.last %}, {% endunless %}
 
 <div class="row">
+  {% for page in site.pages %}
+  {% if page.title %}
   <div class="flip-card">
     <div class="flip-card-inner">
       <div class="flip-card-front">
-        <i class="fas fa-podcast fa-3x"></i>
+        <i class="fas fa-3x {{ page.fa-icon }}"></i>
       </div>
       <div class="flip-card-back">
-        <p>Podcasts</p>
+        <p>{{ page.title }}</p>
       </div>
     </div>
   </div>
-
-  <div class="flip-card">
-    <div class="flip-card-inner">
-      <div class="flip-card-front">
-        <i class="fas fa-music fa-3x"></i>
-      </div>
-      <div class="flip-card-back">
-        <p>Music</p>
-      </div>
-    </div>
-  </div>
+  {% endif %}{% endfor %}
 </div>
 
 ## Posts

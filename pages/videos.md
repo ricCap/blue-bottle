@@ -2,6 +2,7 @@
 layout: default
 title: Videos
 permalink: /videos/
+fa-icon: fa-youtube
 ---
 ### Ze Frank: Are you human?
 [![Ze Frank: Are you human?](https://img.youtube.com/vi/ccIt-qRQBoI/0.jpg)](https://youtu.be/ccIt-qRQBoI)

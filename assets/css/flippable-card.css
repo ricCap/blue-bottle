@@ -35,18 +35,20 @@
   height: 100%;
   -webkit-backface-visibility: hidden; /* Safari */
   backface-visibility: hidden;
-  vertical-align: middle;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 /* Style the front side (fallback if image is missing) */
 .flip-card-front {
-  background-color: #bbb;
+  background-color: white;
   color: black;
 }
 
 /* Style the back side */
 .flip-card-back {
-  background-color: #bbb;
-  color: white;
+  background-color: white;
+  color: black;
   transform: rotateY(180deg);
 }

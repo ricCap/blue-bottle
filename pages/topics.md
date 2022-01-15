@@ -2,6 +2,7 @@
 layout: default
 title: Topics
 permalink: /topics/
+fa-icon: fa-question
 ---
 + Stato sociale
 + Soldi

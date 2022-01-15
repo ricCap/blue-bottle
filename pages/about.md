@@ -2,6 +2,7 @@
 layout: default
 title: About
 permalink: /about/
+fa-icon: fa-info-circle
 ---
 # BlueBottle
 <div align="justify">
