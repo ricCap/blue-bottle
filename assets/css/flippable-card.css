@@ -17,7 +17,7 @@
 }
 
 /* Do an horizontal flip when you move the mouse over the flip box container */
-.flip-card:hover .flip-card-inner .flip-card-1 .flip-card-2{
+.flip-card:hover .flip-card-inner{
   transform: rotateY(180deg);
 }
 
@@ -29,27 +29,4 @@
   -webkit-backface-visibility: hidden; /* Safari */
   backface-visibility: hidden;
   vertical-align: middle;
-}
-
-/* Style the front side (fallback if image is missing) 
-.flip-card-front {
-  color: black;  
-}*/
-
-/* Style the back side */
-.flip-card-back {
-  transform: rotateY(180deg);
-}
-
-.flip-card-1 {
-  background-color: lightcoral;
-  color: black;
-  transform: rotateY(180deg);
-}
-
-
-.flip-card-2 {
-  background-color: lightskyblue;
-  color: black;
-  transform: rotateY(180deg);
 }
