@@ -38,17 +38,12 @@
   display: flex;
   align-items: center;
   justify-content: center;
-}
-
-/* Style the front side (fallback if image is missing) */
-.flip-card-front {
-  background-color: white;
-  color: black;
+  border-radius: 50%;
+  background-color: black;
+  color: white;
 }
 
 /* Style the back side */
 .flip-card-back {
-  background-color: white;
-  color: black;
   transform: rotateY(180deg);
 }

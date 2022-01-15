@@ -12,9 +12,7 @@ fa-icon: fa-home
       <div class="flip-card-front">
         <i class="fas fa-3x {{ page.fa-icon }}"></i>
       </div>
-      <div class="flip-card-back">
-        <p>{{ page.title }}</p>
-      </div>
+      <div class="flip-card-back">{{ page.title }}</div>
     </div>
   </div>
   {% endif %}{% endfor %}
