@@ -19,7 +19,7 @@ fa-icon: fa-home
     </div>
   </div>
 {% endif %}
-{% if remainder == 1 %}
+{% if remainder == 0 %}
 </div>
 {% endif %}
 {% endfor %}
