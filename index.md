@@ -3,10 +3,13 @@ layout: default
 title: Blue Bottle
 fa-icon: fa-home
 ---
-## Pages
+
+{% for page in site.pages %}
+{% assign remainder = forloop.index | modulo: 4 %}
+{% if remainder == 1 %}
 <div class="row">
-  {% for page in site.pages %}
-  {% if page.title %}
+{% endif %}
+{% if page.title %}
   <div class="flip-card">
     <div class="flip-card-inner" onclick="location.href='{{ site.baseurl }}{{ page.url }}'">
         <div class="flip-card-front">
@@ -15,8 +18,11 @@ fa-icon: fa-home
         <div class="flip-card-back">{{ page.title }}</div>
     </div>
   </div>
-  {% endif %}{% endfor %}
+{% endif %}
+{% if remainder == 1 %}
 </div>
+{% endif %}
+{% endfor %}
 
 ## Posts
 <ul>
