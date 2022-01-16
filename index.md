@@ -5,7 +5,7 @@ fa-icon: fa-home
 ---
 
 {% for page in site.pages %}
-{% assign remainder = forloop.index | modulo: 4 %}
+{% assign remainder = forloop.index | modulo: 3 %}
 {% if remainder == 1 %}
 <div class="row">
 {% endif %}
