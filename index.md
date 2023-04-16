@@ -25,8 +25,8 @@ fa-icon: fa-home
 {% endfor %}
 
 ## Playlists
-[Podcasts](https://open.spotify.com/playlist/6c2T59Uao125c7A1sCOMxd?si=6TWRJzcLSymLw2DrV-pG0w&dd=1&nd=1)
-[Youtube](https://youtube.com/playlist?list=PLo2EPO-Ffz059DRWYaHbtC959AwwqFzOW)
++ [Spotify - podcasts](https://open.spotify.com/playlist/6c2T59Uao125c7A1sCOMxd?si=6TWRJzcLSymLw2DrV-pG0w&dd=1&nd=1)
++ [Youtube](https://youtube.com/playlist?list=PLo2EPO-Ffz059DRWYaHbtC959AwwqFzOW)
 
 ## Posts
 <ul>
